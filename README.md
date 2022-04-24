@@ -19,4 +19,10 @@ e.g. $ java HelloJava
 
 # about files
 
-HelloJava.java is only to show you how to create a java program and print something on the screen.
+# HelloJava.java 
+
+is only to show you how to create a java program and print something on the screen.
+
+# TheScanners.java
+
+is to show you how to get data from what you enter to a java program, and how to use scanner function. Beside, checking input values.
