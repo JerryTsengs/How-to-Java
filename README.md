@@ -1,15 +1,17 @@
 # How-to-Java!
 
-Java 是個跨平台,物件導向的語言。
-This is the first Java program to say Hello
+These are Java programs to show you how to use it.
 
-# Use-compiler-step-1
-$javac HelloJava.java
-
-
-# Use-compiler-step-2
-After javac, it will create a file name HelloJava.class
+# step-1-Use-Compiler-to-make-it-alive
+$javac xxxxx.java
+e.g. $ javac HelloJava.java
 
 
-# Use-compiler-step-3
-$ java HelloJava
+
+# step-2
+After javac, it will create a file name like xxxxx.class
+
+
+# step-3-and-you-can-execute-it-by-file-name 
+$ java xxxxx
+e.g. $ java HelloJava
