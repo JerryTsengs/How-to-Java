@@ -15,3 +15,8 @@ After javac, it will create a file name like xxxxx.class
 # step-3-and-you-can-execute-it-by-file-name 
 $ java xxxxx
 e.g. $ java HelloJava
+
+
+# about files
+
+HelloJava.java is only to show you how to create a java program and print something on the screen.
